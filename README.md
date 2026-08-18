@@ -9,11 +9,6 @@ A full MERN-stack app: a React + TypeScript frontend for browsing Star Wars char
 > ![Character modal](docs/screenshot-modal.png)
 > ```
 
-## Live demo
-
-- Hosted frontend: _add your Netlify/Vercel URL here_
-- Hosted API: _add your Render/Railway/Fly URL here_ (needed if you want login/favorites to work on the hosted frontend, not just locally)
-- Video walkthrough: _add your GDrive/YouTube link here_
 
 ## Stack
 
